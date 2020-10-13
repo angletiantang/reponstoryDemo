@@ -1,0 +1,6 @@
+framework module reponstoryDemo {
+  umbrella header "reponstoryDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

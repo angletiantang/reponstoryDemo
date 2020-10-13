@@ -1,0 +1,6 @@
+framework module Pods_reponstoryDemo_Tests {
+  umbrella header "Pods-reponstoryDemo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
